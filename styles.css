@@ -568,6 +568,13 @@ hr{
     top: -40px;
 }
 
+.service_card > h3{
+    color: var(--primary-heading);
+    text-align: center;
+    position: relative;
+    top: -40px;
+    font-size: 1.2rem;
+}
 .benefit_card > h3{
     color: var(--primary-heading);
     text-align: center;
@@ -575,7 +582,6 @@ hr{
     top: -40px;
     font-size: 1.2rem;
 }
-
 .s2{
     font-size: 22px;
 }
@@ -759,7 +765,7 @@ letter-spacing: 0.43px
 
 }
 
-li{
+.footer_nav > ul > li{
     font-weight: bold;
     font-size: 1.2rem;
     letter-spacing: 0.72px;
